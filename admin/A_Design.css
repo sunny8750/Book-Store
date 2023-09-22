@@ -1,0 +1,149 @@
+.f_DIV1
+{
+	background-color: black;
+    height: 40px;
+    width:100%;
+}
+.img1
+{
+	height: 350px;
+	width: 100%;
+ background-image: 600px;
+}
+
+.h-txt1
+{
+	color:white;
+}
+
+/*body{
+	margin: 0;
+	padding: 0;
+	background-size: cover;
+	font-family: sans-serif;
+	font-size: 20px	;
+}
+
+ul li a:hover {
+	background-color: grey;
+	color: white;
+	transform: scale(1.2);
+	border-radius:10px
+	}
+ul li ul li{
+	display: none;
+
+}	
+ul li:hover ul li{
+	display: block;
+}
+div{
+	border-radius:10px;
+	width:100%;
+}
+p{
+	margin: 0px;
+	background-color:white;
+	padding: 0px;
+	height: 30px;
+	color:black;
+	font-size: 15px;
+
+}
+.divider{
+	margin-top: 40px;
+	background-color:grey;
+	height: 5px;		
+}
+*/
+
+ul{
+	margin:0px;
+	padding:0px;
+	background-size: cover;
+	list-style: none;
+	 
+}
+ul li{
+	background-size: cover;
+	float:left;
+	
+	height:40px;
+	background-color: black;
+	opacity: 1;
+	line-height:40px;
+	text-align: center;
+	font-size:10px;
+    
+}
+ul li a{
+	text-decoration: none;
+	color:white;
+	display:block;
+}
+
+.thead
+{
+	width: 150px;
+color: white;
+text-align: center;
+}
+.tdata
+{
+	width: 150px;
+	text-align: center;
+	height: 50px;
+	color: white;
+}
+.btndelete
+{
+	background-color: #872B12;
+	font-family: callabri;
+	font-size:20px;
+	width: 150px;
+	color: white;
+	border-radius: 10px;
+	height: 30px;
+}
+.btnedit
+{
+	background-color: #2F7AA1;
+	font-family: callabri;
+	font-size:20px;
+width: 150px;
+height: 30px;
+color: white;
+border-radius: 10px;
+}
+.txt-format
+{
+	width: 250px;
+	height: 30px;
+border-radius: 10px;
+}
+.table-format
+{
+	border-collapse: collapse;
+
+}
+.menu-btn
+{
+	font-size: 15px;
+	color:white;
+	padding: 10px;
+width: 105px;
+}
+.header-txt
+{
+	
+	color:white;
+	font-family: cookie;
+	font-size:20px;
+	width:150px;
+}
+.txt-form
+{
+		width: 340px;
+		 height: 30px;
+		 border-radius: 5px;
+}
